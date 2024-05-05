@@ -8,8 +8,7 @@
     --roboto-mono: 'Roboto Mono', monospace;
 }
 
-
-.body{
+body{
     color: var(--branco);
     background-color: var(--cor-de-fundo);
     font-family: var(--roboto);
